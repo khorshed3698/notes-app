@@ -93,7 +93,7 @@ DATABASES = {
         'NAME': 'db_cont',
         'USER': 'root',
         'PASSWORD': '12345Q',
-        'HOST': '192.168.8.151',  # Use the container name
+        'HOST': '192.168.8.159',  # Use the container name
         'PORT': '3007',
     }
 }
