@@ -90,11 +90,11 @@ WSGI_APPLICATION = 'notesapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'your_db_name',
-        'USER': 'your_db_user',
-        'PASSWORD': 'your_db_password',
+        'NAME': 'db_cont',
+        'USER': 'root',
+        'PASSWORD': '12345Q',
         'HOST': 'localhost',  # or the IP address of the database server
-        'PORT': '3306',  # or your MySQL port
+        'PORT': '3007',  # or your MySQL port
     }
 }
 
