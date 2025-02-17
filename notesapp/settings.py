@@ -93,7 +93,7 @@ DATABASES = {
         'NAME': 'db_cont',
         'USER': 'root',
         'PASSWORD': '12345Q',
-        'HOST': 'localhost',  # or the IP address of the database server
+        'HOST': '192.168.8.159',  # or the IP address of the database server
         'PORT': '3007',  # or your MySQL port
     }
 }
